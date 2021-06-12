@@ -255,12 +255,12 @@ d3.csv("assets/data/data.csv").then(function(data, err) {
     .classed("active", true)
     .text("In Poverty (%)");
 
-  // var albumsLabel = labelsGroup.append("text")
-  //   .attr("x", 0)
-  //   .attr("y", 40)
-  //   .attr("value", "age") // value to grab for event listener
-  //   .classed("inactive", true)
-  //   .text("Age");
+  var albumsLabel = labelsGroup.append("text")
+    .attr("x", 0)
+    .attr("y", 40)
+    .attr("value", "age") // value to grab for event listener
+    .classed("inactive", true)
+    .text("Age");
 
   // append y axis
   chartGroup.append("text")
