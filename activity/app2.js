@@ -1,4 +1,4 @@
-// I worked with Erin Wills (TA) and the following people:  ______________
+// I, Rachel Thorpe, worked with Erin Wills (TA) and the following people:  Dan Waehner, Leila Zintsem a Moute, Michelle Goldberg, Dan Cusick, Eugene Xu
 // Remember to comment your code as we discuss it.  Commenting the code is required.
 // Prior to starting, make sure  you have already created and cloned your repo.
 
